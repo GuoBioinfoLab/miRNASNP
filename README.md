@@ -1,0 +1,2 @@
+# miRNASNP
+mirna snp databases
